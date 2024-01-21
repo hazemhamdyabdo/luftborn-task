@@ -1,0 +1,10 @@
+<svg width="255" height="160" viewBox="0 0 255 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="003-open-book">
+<rect id="Mask" width="255" height="160" rx="15" fill="#FF5E7D"/>
+<mask id="mask0_2_14" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="255" height="160">
+<rect id="Mask_2" width="255" height="160" rx="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_2_14)">
+</g>
+</g>
+</svg>
